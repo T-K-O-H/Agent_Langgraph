@@ -1,0 +1,7 @@
+chainlit
+langchain-openai>=0.0.3
+langchain-core>=0.1.4
+openai>=1.7.0
+python-dotenv>=1.0.0
+yfinance>=0.2.36
+typing-extensions>=4.9.0
